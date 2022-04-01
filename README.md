@@ -1,5 +1,5 @@
 # FNaF Scratch port
-A Five Nights at Freddy's port in Scratch
+A Five Nights at Freddy's port in Scratch in 16:9!
 
 Built with TurboWarp by GarboMuffin, and using the HD images upload addon by ErrorGamer2000, GarboMuffin, World_Languages, and SheepTester.
 
