@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0,0,121,31" width="121" height="31">
+        <g>
+          <g
+              data-paper-data='{"isPaintingLayer":true}'
+              fill="none"
+              fill-rule="nonzero"
+              stroke="none"
+              stroke-width="0.5"
+              stroke-linecap="butt"
+              stroke-linejoin="miter"
+              stroke-miterlimit="10"
+              stroke-dasharray=""
+              stroke-dashoffset="0"
+              style="mix-blend-mode: normal;"
+          >
+            <image
+                width="121"
+                height="31"
+				transform="scale(1,1)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAfCAYAAADDV2IOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANoSURBVGhD7VvLbgIxDOz/fx5nbpyQ4ICEkHi3U2nQrLFDvG1VWBxp1d3EcWKP7dhp+3GtNnkNfExewhLwegfybDa71vPaOrB2PQC5wH1tcBU/BfoGcgE8HYCJJYEukCd8PBXIEwa3PPkNwC2QC+Rh8rFcLq/r9fr2LBaLQXmFbx1frVaDb47N5/NUv/LkO9f2xrw+rPnTZBI8ttvtdb/ffz/UB96xJvlbPWEsWj/av9UteWfpvQy7mXhdLpdByXU+nweKs/WYpec4Nuq1qN+jhWIhQG9TEMaAjfVajfsBb09uHY9KG+X/W/RpkA+Hw50A6lG6SQh6PB4H9OjDA0vnO+ewX79VWZaeSrAKJZ2l/wnIkFvb6XS604OC4ukJ8z3j8vSAPkSM36BPg4wJ1tt2u933ZiC4No+5VTR5QSibHPCbIHIuPUqVyj7lE83PerHKCxl1PkIwohma53nWACPgNCL17o+67qXXNR7WyRZkCAJhbftPkKFM7Es9aqwn03g9A4KMntGhH9GKjZEg4vF0IKvXUAj20arRr4mGnsUKvufJTCwiT2Ryp4mJnpd4pwfxCGglPo88gbwiLwRvm3hpZIORYK9sUUKV9cwsfcqTFWQbojebzU0Y9ZwMyFbpNlx7oERJUctzHoFrj49MJNDIBo8GLzoAvNpbOwLNM+qW50f0o0G2oVsZ/RfI1pN7wYzoaGQw4F5eyFNaLQNydBxERhHRjwKZFqnnThZken7L4zKeTD5/cSbbpKsFeBPhr0Ev9GdBy9KPApnZJJMKhiUPFG7ICvcoqcHGxoCsAPTMbwGm0crzZp7J5GGPLL28aCVgWdCy9N0g23pR6zlbGzLp0SQEGwMdDETPc5ZhVFRURzNj9kCk0H9RJ2sphH3zxkv7IZenHxp/pJ+oTrb9ei+g60byeiUddZS68cKk6FICYzyXNbu0ocwL1a2bL0v/KDRGSV/v+Qo6JFK25tV1MQYZPRrqIBrr3X/2hm80yHpvS2umEN6YLRcY2pBpemUHFY955G9/2pAf0dn+qHTJgI390yMhAyKQ8m3pIBrr3b9eBvXM8aqBLk/OKKRon+8vSwrkN/iVY4FcID9f6KnjII9JefI7ejJQL2/Je8uz6kxLtfoPigl6tK3F63+hem8nXpiuQH5h8Hq3/gkFBFs6gzMVRwAAAABJRU5ErkJggg=="
+            />
+          </g>
+        </g>
+      </svg>
