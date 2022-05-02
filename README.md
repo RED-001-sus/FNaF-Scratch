@@ -1,6 +1,8 @@
 # FNaF Scratch port
 A Five Nights at Freddy's port in Scratch in 16:9!
 
+I have been kinda lazy with this and I stopped working on it for a few weeks, but I have been doing a little bit of progress today and hopefully I'll do some more and then eventualy release the first night. I hope to release it by late May/early June (I've been kinda busy with school).
+
 Built with TurboWarp by GarboMuffin, and using the HD images upload addon by ErrorGamer2000, GarboMuffin, World_Languages, and SheepTester.
 
 Notes for running the .SB3:
